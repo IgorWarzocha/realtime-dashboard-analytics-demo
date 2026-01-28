@@ -6,3 +6,4 @@
 export * from "./analytics";
 export * from "./seed";
 export * from "./sync";
+export * from "./admin";
